@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vânia</h1>
 <h3 align="center">An enthusiastic data scientist and a lifelong learner.</h3>
 
-- 🔭 I’m currently working on **personal projects**
-- 🌱 I’m currently learning **cloud computing technologies and data visualization**
-- 👯 I’m looking to collaborate on **data science projects**
+- 🔭 I’m currently working on **personal projects**.
+- 🌱 I’m currently learning **cloud computing technologies and data visualization**.
+- 👯 I’m looking to collaborate on **data science projects**.
 - 💬 Ask me about **technology, innovation projects and data mining.**
-- 📫 How to reach me **batistavania2@gmail.com**
-- 📄 Know about my experiences [www.linkedin.com/in/vâniasantoss](www.linkedin.com/in/vâniasantoss)
+- 📫 How to reach me **batistavania2@gmail.com**.
+- 📄 Know about my experiences [www.linkedin.com/in/vâniasantoss](www.linkedin.com/in/vâniasantoss).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
